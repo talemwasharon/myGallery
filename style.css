@@ -1,0 +1,30 @@
+.body{
+    background-color: blue;
+}
+.h1{
+    background-color: lawngreen;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+   text-align center;
+}
+.image{
+    width: 50%;
+    height: 50%;
+}
+.subdiv{
+    float: left;
+    width: 25%;
+    height:auto;
+    border: solid gold;
+    padding: 10px;
+    margin-inline-start: 5px;
+    margin-top: 5px;
+}
+.maindiv{
+    width:90%;
+    height: 80%;
+}
+.caption{
+    color:hsl(98, 90%, 40%);
+    text-align: center;
+
+}
